@@ -1,0 +1,62 @@
+C:\Users\Admin\source\repos\CourseProject\CourseProject\bin\Debug\CourseProject.exe.config
+C:\Users\Admin\source\repos\CourseProject\CourseProject\bin\Debug\CourseProject.exe
+C:\Users\Admin\source\repos\CourseProject\CourseProject\bin\Debug\CourseProject.pdb
+C:\Users\Admin\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject.Form1.resources
+C:\Users\Admin\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject.Properties.Resources.resources
+C:\Users\Admin\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject.exe
+C:\Users\Admin\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject.pdb
+E:\CourseProject\CourseProject\bin\Debug\CourseProject.exe.config
+E:\CourseProject\CourseProject\obj\Debug\CourseProject.exe
+E:\CourseProject\CourseProject\obj\Debug\CourseProject.pdb
+E:\CourseProject\CourseProject\bin\Debug\CourseProject.exe
+E:\CourseProject\CourseProject\bin\Debug\CourseProject.pdb
+E:\CourseProject\CourseProject\obj\Debug\CourseProject.csprojResolveAssemblyReference.cache
+E:\CourseProject\CourseProject\obj\Debug\CourseProject.Form1.resources
+E:\CourseProject\CourseProject\obj\Debug\CourseProject.Properties.Resources.resources
+E:\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.Cache
+C:\Users\Руслан\Downloads\CourseProject\CourseProject\bin\Debug\CourseProject.exe.config
+C:\Users\Руслан\Downloads\CourseProject\CourseProject\bin\Debug\CourseProject.exe
+C:\Users\Руслан\Downloads\CourseProject\CourseProject\bin\Debug\CourseProject.pdb
+C:\Users\Руслан\Downloads\CourseProject\CourseProject\obj\Debug\CourseProject.csprojAssemblyReference.cache
+C:\Users\Руслан\Downloads\CourseProject\CourseProject\obj\Debug\CourseProject.SMO.resources
+C:\Users\Руслан\Downloads\CourseProject\CourseProject\obj\Debug\CourseProject.Properties.Resources.resources
+C:\Users\Руслан\Downloads\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.cache
+C:\Users\Руслан\Downloads\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\Руслан\Downloads\CourseProject\CourseProject\obj\Debug\CourseProject.exe
+C:\Users\Руслан\Downloads\CourseProject\CourseProject\obj\Debug\CourseProject.pdb
+C:\Users\Руслан\Downloads\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.ResolveComReference.cache
+C:\Users\Руслан\Desktop\CourseProject (Edit)\CourseProject\bin\Debug\CourseProject.exe.config
+C:\Users\Руслан\Desktop\CourseProject (Edit)\CourseProject\bin\Debug\CourseProject.exe
+C:\Users\Руслан\Desktop\CourseProject (Edit)\CourseProject\bin\Debug\CourseProject.pdb
+C:\Users\Руслан\Desktop\CourseProject (Edit)\CourseProject\obj\Debug\CourseProject.csprojAssemblyReference.cache
+C:\Users\Руслан\Desktop\CourseProject (Edit)\CourseProject\obj\Debug\CourseProject.csproj.ResolveComReference.cache
+C:\Users\Руслан\Desktop\CourseProject (Edit)\CourseProject\obj\Debug\CourseProject.SMO.resources
+C:\Users\Руслан\Desktop\CourseProject (Edit)\CourseProject\obj\Debug\CourseProject.Properties.Resources.resources
+C:\Users\Руслан\Desktop\CourseProject (Edit)\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.cache
+C:\Users\Руслан\Desktop\CourseProject (Edit)\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\Руслан\Desktop\CourseProject (Edit)\CourseProject\obj\Debug\CourseProject.exe
+C:\Users\Руслан\Desktop\CourseProject (Edit)\CourseProject\obj\Debug\CourseProject.pdb
+C:\Users\Ruslan\Downloads\CourseProject (Edit)\CourseProject\bin\Debug\CourseProject.exe.config
+C:\Users\Ruslan\Downloads\CourseProject (Edit)\CourseProject\bin\Debug\CourseProject.exe
+C:\Users\Ruslan\Downloads\CourseProject (Edit)\CourseProject\bin\Debug\CourseProject.pdb
+C:\Users\Ruslan\Downloads\CourseProject (Edit)\CourseProject\obj\Debug\CourseProject.csprojAssemblyReference.cache
+C:\Users\Ruslan\Downloads\CourseProject (Edit)\CourseProject\obj\Debug\CourseProject.csproj.ResolveComReference.cache
+C:\Users\Ruslan\Downloads\CourseProject (Edit)\CourseProject\obj\Debug\CourseProject.SMO.resources
+C:\Users\Ruslan\Downloads\CourseProject (Edit)\CourseProject\obj\Debug\CourseProject.Properties.Resources.resources
+C:\Users\Ruslan\Downloads\CourseProject (Edit)\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.cache
+C:\Users\Ruslan\Downloads\CourseProject (Edit)\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan\Downloads\CourseProject (Edit)\CourseProject\obj\Debug\CourseProject.exe
+C:\Users\Ruslan\Downloads\CourseProject (Edit)\CourseProject\obj\Debug\CourseProject.pdb
+C:\Users\Ruslan\Desktop\CourseProject (Edit)\CourseProject\bin\Debug\CourseProject.exe.config
+C:\Users\Ruslan\Desktop\CourseProject (Edit)\CourseProject\bin\Debug\CourseProject.exe
+C:\Users\Ruslan\Desktop\CourseProject (Edit)\CourseProject\bin\Debug\CourseProject.pdb
+C:\Users\Ruslan\Desktop\CourseProject (Edit)\CourseProject\obj\Debug\CourseProject.csprojAssemblyReference.cache
+C:\Users\Ruslan\Desktop\CourseProject (Edit)\CourseProject\obj\Debug\CourseProject.csproj.ResolveComReference.cache
+C:\Users\Ruslan\Desktop\CourseProject (Edit)\CourseProject\obj\Debug\CourseProject.SMO.resources
+C:\Users\Ruslan\Desktop\CourseProject (Edit)\CourseProject\obj\Debug\CourseProject.Properties.Resources.resources
+C:\Users\Ruslan\Desktop\CourseProject (Edit)\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.cache
+C:\Users\Ruslan\Desktop\CourseProject (Edit)\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan\Desktop\CourseProject (Edit)\CourseProject\obj\Debug\CourseProject.exe
+C:\Users\Ruslan\Desktop\CourseProject (Edit)\CourseProject\obj\Debug\CourseProject.pdb

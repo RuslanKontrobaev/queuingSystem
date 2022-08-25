@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CourseProject.Buyer">
+    <Position X="8" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAAQAAAAAQABAAACAAAAKQAAAAAAEAAAA=</HashCode>
+      <FileName>Class\Buyer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseProject.Cashbox">
+    <Position X="1.25" Y="1.75" Width="2.25" />
+    <Members>
+      <Field Name="downtimeCashbox" Hidden="true" />
+      <Field Name="firstDowntimeCashbox" Hidden="true" />
+      <Method Name="GetDownTimeCashbox" Hidden="true" />
+      <Method Name="GetNumByers" Hidden="true" />
+      <Method Name="GetTimeFinishProcessing" Hidden="true" />
+      <Method Name="GetTimeStartProcessing" Hidden="true" />
+      <Method Name="GetTimeStayingOfCashbox" Hidden="true" />
+      <Field Name="numByers" Hidden="true" />
+      <Field Name="timeByers" Hidden="true" />
+      <Field Name="timeFinishProcessing" Hidden="true" />
+      <Field Name="timeStartProcessing" Hidden="true" />
+      <Field Name="timeStayingOfCashbox" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AgCFAKgACAAEEBAoAIAQMBAAACggAAAAEhAACRAgCAA=</HashCode>
+      <FileName>Class\Cashbox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseProject.Excel">
+    <Position X="10" Y="2.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAgAIAAAAAAAGAAAAACAAAAAABAAAAAARAAAACAAAA=</HashCode>
+      <FileName>Class\Excel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseProject.Program">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseProject.SMO">
+    <Position X="4.75" Y="0.5" Width="2.75" />
+    <Members>
+      <Field Name="button_clearFields" Hidden="true" />
+      <Field Name="button_Start" Hidden="true" />
+      <Field Name="button_Stop" Hidden="true" />
+      <Field Name="comboBox_order_distribution" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="e" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label_interval_between_byers" Hidden="true" />
+      <Field Name="label_interval_between_byers_before" Hidden="true" />
+      <Field Name="label_interval_between_byers_from" Hidden="true" />
+      <Field Name="label_interval_service_time" Hidden="true" />
+      <Field Name="label_interval_service_time_before" Hidden="true" />
+      <Field Name="label_interval_service_time_from" Hidden="true" />
+      <Field Name="label_max_queue" Hidden="true" />
+      <Field Name="label_order_distribution" Hidden="true" />
+      <Field Name="label_time_simulation_days" Hidden="true" />
+      <Field Name="label_time_simulation_hours" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="label4" Hidden="true" />
+      <Field Name="label5" Hidden="true" />
+      <Field Name="label6" Hidden="true" />
+      <Field Name="prev" Hidden="true" />
+      <Field Name="res1" Hidden="true" />
+      <Field Name="res2" Hidden="true" />
+      <Field Name="rnd" Hidden="true" />
+      <Field Name="sum1" Hidden="true" />
+      <Field Name="sum2" Hidden="true" />
+      <Field Name="textBox_interval_between_byers_before" Hidden="true" />
+      <Field Name="textBox_interval_between_byers_from" Hidden="true" />
+      <Field Name="textBox_interval_service_time_before" Hidden="true" />
+      <Field Name="textBox_interval_service_time_from" Hidden="true" />
+      <Field Name="textBox_max_queue" Hidden="true" />
+      <Field Name="textBox_time_simulation_days" Hidden="true" />
+      <Field Name="textBox_time_simulation_hours" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>EAQEAIIAACQAEhQgAICAAgYGCgTYAEIeAAjSCAEECDQ=</HashCode>
+      <FileName>SMO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseProject.Properties.Resources" Collapsed="true">
+    <Position X="13.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseProject.Properties.Settings" Collapsed="true">
+    <Position X="13.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
